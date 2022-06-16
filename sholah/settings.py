@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+9lo$!6-)9go#r(kv3!$ucstk*1_=s-wz_tj6xv9%-wg3upbs=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ubolojain.pythonanywhere.com']
+ALLOWED_HOSTS = ['ubolojain.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
@@ -37,9 +37,15 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    'rest_framework',
+    'sholah_api',
 ]
 
+REST_FRAMEWORK = {}
+
 MIDDLEWARE = [
+    "kolo.middleware.KoloMiddleware",
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',

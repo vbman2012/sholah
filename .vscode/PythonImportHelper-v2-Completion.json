@@ -1,0 +1,744 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "views",
+        "importPath": "sholah_api",
+        "description": "sholah_api",
+        "isExtraImport": true,
+        "detail": "sholah_api",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "mixins",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "Http404",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "Guest",
+        "importPath": "sholah_api.models",
+        "description": "sholah_api.models",
+        "isExtraImport": true,
+        "detail": "sholah_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "importPath": "sholah_api.models",
+        "description": "sholah_api.models",
+        "isExtraImport": true,
+        "detail": "sholah_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Reservation",
+        "importPath": "sholah_api.models",
+        "description": "sholah_api.models",
+        "isExtraImport": true,
+        "detail": "sholah_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "GuestSerializer",
+        "importPath": "sholah_api.serializers",
+        "description": "sholah_api.serializers",
+        "isExtraImport": true,
+        "detail": "sholah_api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "MovieSerializer",
+        "importPath": "sholah_api.serializers",
+        "description": "sholah_api.serializers",
+        "isExtraImport": true,
+        "detail": "sholah_api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ReservationSerializer",
+        "importPath": "sholah_api.serializers",
+        "description": "sholah_api.serializers",
+        "isExtraImport": true,
+        "detail": "sholah_api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "sholah.asgi",
+        "description": "sholah.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "sholah.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-+9lo$!6-)9go#r(kv3!$ucstk*1_=s-wz_tj6xv9%-wg3upbs='\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['ubolojain.pythonanywhere.com', '127.0.0.1']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-+9lo$!6-)9go#r(kv3!$ucstk*1_=s-wz_tj6xv9%-wg3upbs='\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = ['ubolojain.pythonanywhere.com', '127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['ubolojain.pythonanywhere.com', '127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['ubolojain.pythonanywhere.com', '127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'sholah_api',\n]",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "REST_FRAMEWORK = {}\nMIDDLEWARE = [\n    \"kolo.middleware.KoloMiddleware\",\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"kolo.middleware.KoloMiddleware\",\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "ROOT_URLCONF = 'sholah.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'sholah.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# default static files settings for PythonAnywhere.",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# default static files settings for PythonAnywhere.\n# see https://help.pythonanywhere.com/pages/DjangoStaticFiles for more info",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# default static files settings for PythonAnywhere.\n# see https://help.pythonanywhere.com/pages/DjangoStaticFiles for more info\nMEDIA_ROOT = '/home/ubolojain/sholah/media'",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# default static files settings for PythonAnywhere.\n# see https://help.pythonanywhere.com/pages/DjangoStaticFiles for more info\nMEDIA_ROOT = '/home/ubolojain/sholah/media'\nMEDIA_URL = '/media/'\nSTATIC_ROOT = '/home/ubolojain/sholah/static'\nSTATIC_URL = '/static/'",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# default static files settings for PythonAnywhere.\n# see https://help.pythonanywhere.com/pages/DjangoStaticFiles for more info\nMEDIA_ROOT = '/home/ubolojain/sholah/media'\nMEDIA_URL = '/media/'\nSTATIC_ROOT = '/home/ubolojain/sholah/static'\nSTATIC_URL = '/static/'",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "MEDIA_ROOT = '/home/ubolojain/sholah/media'\nMEDIA_URL = '/media/'\nSTATIC_ROOT = '/home/ubolojain/sholah/static'\nSTATIC_URL = '/static/'",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nSTATIC_ROOT = '/home/ubolojain/sholah/static'\nSTATIC_URL = '/static/'",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "STATIC_ROOT = '/home/ubolojain/sholah/static'\nSTATIC_URL = '/static/'",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "sholah.settings",
+        "description": "sholah.settings",
+        "peekOfCode": "STATIC_URL = '/static/'",
+        "detail": "sholah.settings",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "sholah.urls",
+        "description": "sholah.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('guests', views.GuestViewSet)\nrouter.register('movies', views.MovieViewSet)\nrouter.register('reservations', views.ReservationViewSet)\nurlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api-auth/', include('rest_framework.urls')),\n    path('guest/list', views.no_rest_no_model),\n    path('guests/', views.no_rest_from_model),\n    path('guest/create', views.FBV_list),",
+        "detail": "sholah.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "sholah.urls",
+        "description": "sholah.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api-auth/', include('rest_framework.urls')),\n    path('guest/list', views.no_rest_no_model),\n    path('guests/', views.no_rest_from_model),\n    path('guest/create', views.FBV_list),\n    path('guest/actions/<int:pk>', views.FBV_pk),\n    path('guest/all', views.CbvList.as_view()),\n    path('guest/all/<int:pk>', views.CbvDetail.as_view()),\n    path('guest/mixins', views.mixins_list.as_view()),",
+        "detail": "sholah.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "sholah.wsgi",
+        "description": "sholah.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "sholah.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "sholah_api.migrations.0001_initial",
+        "description": "sholah_api.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Guest',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=30)),",
+        "detail": "sholah_api.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "SholahApiConfig",
+        "kind": 6,
+        "importPath": "sholah_api.apps",
+        "description": "sholah_api.apps",
+        "peekOfCode": "class SholahApiConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'sholah_api'",
+        "detail": "sholah_api.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Movie",
+        "kind": 6,
+        "importPath": "sholah_api.models",
+        "description": "sholah_api.models",
+        "peekOfCode": "class Movie(models.Model):\n    hall = models.CharField(max_length=10)\n    movie = models.CharField(max_length=10)\n    date = models.DateField(auto_now_add=True)\n    def __str__(self):\n        return self.hall\nclass Guest(models.Model):\n    name = models.CharField(max_length=30)\n    mobile = models.CharField(max_length=15)\n    def __str__(self):",
+        "detail": "sholah_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Guest",
+        "kind": 6,
+        "importPath": "sholah_api.models",
+        "description": "sholah_api.models",
+        "peekOfCode": "class Guest(models.Model):\n    name = models.CharField(max_length=30)\n    mobile = models.CharField(max_length=15)\n    def __str__(self):\n        return self.name\nclass Reservation(models.Model):\n    movie = models.ForeignKey(\n        Movie, on_delete=models.CASCADE, related_name='reservation')\n    guest = models.ForeignKey(\n        Guest, on_delete=models.CASCADE, related_name='reservation')",
+        "detail": "sholah_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Reservation",
+        "kind": 6,
+        "importPath": "sholah_api.models",
+        "description": "sholah_api.models",
+        "peekOfCode": "class Reservation(models.Model):\n    movie = models.ForeignKey(\n        Movie, on_delete=models.CASCADE, related_name='reservation')\n    guest = models.ForeignKey(\n        Guest, on_delete=models.CASCADE, related_name='reservation')\n    def __str__(self):\n        return self.movie.movie",
+        "detail": "sholah_api.models",
+        "documentation": {}
+    },
+    {
+        "label": "MovieSerializer",
+        "kind": 6,
+        "importPath": "sholah_api.serializers",
+        "description": "sholah_api.serializers",
+        "peekOfCode": "class MovieSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Movie\n        fields = ('id', 'hall', 'movie', 'date', 'reservation')\nclass ReservationSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Reservation\n        fields = ('id', 'movie', 'guest')\nclass GuestSerializer(serializers.ModelSerializer):\n    class Meta:",
+        "detail": "sholah_api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ReservationSerializer",
+        "kind": 6,
+        "importPath": "sholah_api.serializers",
+        "description": "sholah_api.serializers",
+        "peekOfCode": "class ReservationSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Reservation\n        fields = ('id', 'movie', 'guest')\nclass GuestSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Guest\n        fields = ('id', 'name', 'mobile', 'reservation')",
+        "detail": "sholah_api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "GuestSerializer",
+        "kind": 6,
+        "importPath": "sholah_api.serializers",
+        "description": "sholah_api.serializers",
+        "peekOfCode": "class GuestSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Guest\n        fields = ('id', 'name', 'mobile', 'reservation')",
+        "detail": "sholah_api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CbvList",
+        "kind": 6,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "class CbvList(APIView):\n    \"\"\"\n    _summary_list = filters.SearchFilter(\n    Args:\n        APIView (_type_): _description_\n    \"\"\"\n    def get(self, request):\n        guests = Guest.objects.all()\n        serializer = GuestSerializer(guests, many=True)\n        return Response(serializer.data)",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "CbvDetail",
+        "kind": 6,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "class CbvDetail(APIView):\n    \"\"\"\n    _summary_list = filters.SearchFilter(\n    Args:\n        APIView (_type_): _description_\n    \"\"\"\n    def get_object(self, pk):\n        try:\n            return Guest.objects.get(pk=pk)\n        except Guest.DoesNotExist:",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "mixins_list",
+        "kind": 6,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "class mixins_list(mixins.ListModelMixin, mixins.CreateModelMixin, generics.GenericAPIView):\n    queryset = Guest.objects.all()\n    serializer_class = GuestSerializer\n    def get(self, request, *args, **kwargs):\n        return self.list(request, *args, **kwargs)\n    def post(self, request, *args, **kwargs):\n        return self.create(request, *args, **kwargs)\nclass mixins_pk(mixins.RetrieveModelMixin, mixins.UpdateModelMixin, mixins.DestroyModelMixin, generics.GenericAPIView):\n    queryset = Guest.objects.all()\n    serializer_class = GuestSerializer",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "mixins_pk",
+        "kind": 6,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "class mixins_pk(mixins.RetrieveModelMixin, mixins.UpdateModelMixin, mixins.DestroyModelMixin, generics.GenericAPIView):\n    queryset = Guest.objects.all()\n    serializer_class = GuestSerializer\n    def get(self, request, pk):\n        return self.retrieve(request, pk)\n    def put(self, request, pk):\n        return self.update(request, pk)\n    def delete(self, request, pk):\n        return self.destroy(request, pk)\n# Generics request",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "grnrrics_list",
+        "kind": 6,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "class grnrrics_list(generics.ListCreateAPIView):\n    queryset = Guest.objects.all()\n    serializer_class = GuestSerializer\nclass generaics_pk(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Guest.objects.all()\n    serializer_class = GuestSerializer\n# viewsets\nclass GuestViewSet(viewsets.ModelViewSet):\n    queryset = Guest.objects.all()\n    serializer_class = GuestSerializer",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "generaics_pk",
+        "kind": 6,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "class generaics_pk(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Guest.objects.all()\n    serializer_class = GuestSerializer\n# viewsets\nclass GuestViewSet(viewsets.ModelViewSet):\n    queryset = Guest.objects.all()\n    serializer_class = GuestSerializer\n    filter_backends = [filters.SearchFilter]\n    search_backends = [filters.SearchFilter]\nclass MovieViewSet(viewsets.ModelViewSet):",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "GuestViewSet",
+        "kind": 6,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "class GuestViewSet(viewsets.ModelViewSet):\n    queryset = Guest.objects.all()\n    serializer_class = GuestSerializer\n    filter_backends = [filters.SearchFilter]\n    search_backends = [filters.SearchFilter]\nclass MovieViewSet(viewsets.ModelViewSet):\n    queryset = Movie.objects.all()\n    serializer_class = MovieSerializer\n    filter_backends = [filters.SearchFilter]\nclass ReservationViewSet(viewsets.ModelViewSet):",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "MovieViewSet",
+        "kind": 6,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "class MovieViewSet(viewsets.ModelViewSet):\n    queryset = Movie.objects.all()\n    serializer_class = MovieSerializer\n    filter_backends = [filters.SearchFilter]\nclass ReservationViewSet(viewsets.ModelViewSet):\n    queryset = Reservation.objects.all()\n    serializer_class = ReservationSerializer\n    filter_backends = [filters.SearchFilter]\n@api_view(['GET'])\ndef get_movie(request):",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReservationViewSet",
+        "kind": 6,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "class ReservationViewSet(viewsets.ModelViewSet):\n    queryset = Reservation.objects.all()\n    serializer_class = ReservationSerializer\n    filter_backends = [filters.SearchFilter]\n@api_view(['GET'])\ndef get_movie(request):\n    movies = Movie.objects.filter(\n        hall=request.data['hall'],\n        movie=request.data['movie']\n    )",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "no_rest_no_model",
+        "kind": 2,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "def no_rest_no_model(request):\n    guests = [\n        {\n            'id': '1',\n            'name': 'Mahmoud',\n            'mobile': '11125555555'\n        },\n        {\n            'id': '2',\n            'name': 'Lojain',",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "no_rest_from_model",
+        "kind": 2,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "def no_rest_from_model(request):\n    data = Guest.objects.all()\n    response = {\n        'guests': list(data.values('name', 'mobile'))\n    }\n    return JsonResponse(response)\n@api_view(['GET', 'POST'])\ndef FBV_list(request):\n    # GET request\n    if request.method == 'GET':",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "FBV_list",
+        "kind": 2,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "def FBV_list(request):\n    # GET request\n    if request.method == 'GET':\n        guests = Guest.objects.all()\n        serializer = GuestSerializer(guests, many=True)\n        return Response(serializer.data)\n    # POST request\n    elif request.method == 'POST':\n        serializer = GuestSerializer(data=request.data)\n        if serializer.is_valid():",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "FBV_pk",
+        "kind": 2,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "def FBV_pk(request, pk):\n    try:\n        guest = Guest.objects.get(pk=pk)\n    except Guest.DoseNotExists:\n        return Response(status=status.HTTP_404_NOT_FOUND)\n    # GET request\n    if request.method == 'GET':\n        serializer = GuestSerializer(guest, many=False)\n        return Response(serializer.data)\n    # PUT request",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_movie",
+        "kind": 2,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "def get_movie(request):\n    movies = Movie.objects.filter(\n        hall=request.data['hall'],\n        movie=request.data['movie']\n    )\n    serializer = MovieSerializer(movies, many=True)\n    return Response(serializer.data)\n@api_view(['POST'])\ndef new_reservation(request):\n    movie = Movie.objects.get(",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "new_reservation",
+        "kind": 2,
+        "importPath": "sholah_api.views",
+        "description": "sholah_api.views",
+        "peekOfCode": "def new_reservation(request):\n    movie = Movie.objects.get(\n        hall=request.data['hall'],\n        movie=request.data['movie']\n    )\n    guest = Guest()\n    guest.name = request.data['name']\n    guest.mobile = request.data['mobile']\n    guest.save()\n    reservation = Reservation()",
+        "detail": "sholah_api.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'sholah.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

@@ -1,21 +1,28 @@
-"""sholah URL Configuration
-
-The `urlpatterns` list routes URLs to views. For more information please see:
-    https://docs.djangoproject.com/en/3.2/topics/http/urls/
-Examples:
-Function views
-    1. Add an import:  from my_app import views
-    2. Add a URL to urlpatterns:  path('', views.home, name='home')
-Class-based views
-    1. Add an import:  from other_app.views import Home
-    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')
-Including another URLconf
-    1. Import the include() function: from django.urls import include, path
-    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
-"""
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
+from sholah_api import views
+from rest_framework.routers import DefaultRouter
+
+router = DefaultRouter()
+router.register('guests', views.GuestViewSet)
+router.register('movies', views.MovieViewSet)
+router.register('reservations', views.ReservationViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('api-auth/', include('rest_framework.urls')),
+    path('guest/list', views.no_rest_no_model),
+    path('guests/', views.no_rest_from_model),
+    path('guest/create', views.FBV_list),
+    path('guest/actions/<int:pk>', views.FBV_pk),
+    path('guest/all', views.CbvList.as_view()),
+    path('guest/all/<int:pk>', views.CbvDetail.as_view()),
+    path('guest/mixins', views.mixins_list.as_view()),
+    path('guest/mixins/<int:pk>', views.mixins_pk.as_view()),
+    path('guest/generics', views.grnrrics_list.as_view()),
+    path('guest/generics/<int:pk>', views.generaics_pk.as_view()),
+    path('viewsets/', include(router.urls)),
+    path('get-movie/', views.get_movie),
+    path('post-reservation/', views.new_reservation),
+
 ]
